@@ -1,0 +1,6 @@
+name: mock_home_api
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - flask
